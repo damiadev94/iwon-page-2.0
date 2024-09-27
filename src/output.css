@@ -554,8 +554,32 @@ video {
   display: none;
 }
 
+.visible {
+  visibility: visible;
+}
+
+.relative {
+  position: relative;
+}
+
 .flex {
   display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .items-center {
@@ -570,6 +594,18 @@ video {
   justify-content: space-between;
 }
 
+.gap-4 {
+  gap: 1rem;
+}
+
+.bg-\[url\(\'\.\.\/\.\.\/public\/granulado_3\.1\.1\.jpg\'\)\] {
+  background-image: url('../../public/granulado_3.1.1.jpg');
+}
+
+.bg-\[url\(\'\.\.\/\.\.\/public\/images\/granulado_3\.1\.1\.jpg\'\)\] {
+  background-image: url('../../public/images/granulado_3.1.1.jpg');
+}
+
 .p-2 {
   padding: 0.5rem;
 }
@@ -581,5 +617,10 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
