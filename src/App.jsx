@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './output.css'
 
 function App() {
   return <h1>IWON APP</h1>
