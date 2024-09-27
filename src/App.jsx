@@ -1,8 +1,13 @@
 import { useState } from 'react'
 import './output.css'
+import MainLayout from './layout/MainLayout'
 
 function App() {
-  return <h1>IWON APP</h1>
+  return (
+    <MainLayout>
+      
+    </MainLayout>
+  )
 }
 
 export default App
