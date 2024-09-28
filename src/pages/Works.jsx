@@ -5,7 +5,7 @@ function Works() {
   return (
     <MainLayout>
       {/* HERO */}
-      <div className="relative lg:min-h-[728px] lg:min-w-full overflow-hidden">
+      <div className="relative lg:min-h-[728px] max-h-screen lg:min-w-full overflow-hidden">
         <div className="w-full h-full">
           {/* POLARIZADO */}
           <div className="absolute w-full h-full z-20 bg-gray-950 opacity-50"></div>

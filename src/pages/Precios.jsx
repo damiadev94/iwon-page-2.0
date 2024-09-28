@@ -7,7 +7,7 @@ function Precios() {
       <h1 className="text-white font-bold text-xl text-center my-4 uppercase">
         Precios
       </h1>
-      <div className="w-full grid grid-cols-4">
+      <div className="w-full grid lg:grid-cols-4 grid-cols-1">
         {/* TARJETA 1 */}
         <div className="bg-gray-200 py-4 px-2">
           <h3>videoclip estandar</h3>
