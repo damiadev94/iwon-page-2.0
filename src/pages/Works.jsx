@@ -12,7 +12,7 @@ function Works() {
           {/* VIDEO */}
           <video
             className="absolute bottom-0 z-10 w-auto min-w-full min-h-full max-w-none"
-            src="/public/videos/soy-un-cabron.mp4"
+            src="/videos/soy-un-cabron.mp4"
             muted
             autoPlay
             loop
