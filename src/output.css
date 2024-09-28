@@ -708,16 +708,16 @@ video {
   justify-content: space-between;
 }
 
+.gap-1 {
+  gap: 0.25rem;
+}
+
 .gap-2 {
   gap: 0.5rem;
 }
 
 .gap-4 {
   gap: 1rem;
-}
-
-.gap-1 {
-  gap: 0.25rem;
 }
 
 .overflow-hidden {
@@ -836,20 +836,16 @@ video {
     min-height: 728px;
   }
 
-  .lg\:min-h-full {
-    min-height: 100%;
-  }
-
-  .lg\:min-h-screen {
-    min-height: 100vh;
-  }
-
   .lg\:min-w-full {
     min-width: 100%;
   }
 
   .lg\:max-w-\[1200px\] {
     max-width: 1200px;
+  }
+
+  .lg\:max-w-\[728px\] {
+    max-width: 728px;
   }
 
   .lg\:grid-cols-4 {

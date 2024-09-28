@@ -14,9 +14,9 @@ function Precios() {
         {/* VIDEOCLIP COMPLETO */}
         <Card title={"VIDEOCLIP COMPLETO"} features={["Rodaje de 2 horas","Luces led rgb profesionales incluidas", "Ya diponible (vertical) incluido", "Trailer incluido", "Edición", "Color", "Filmación con cámara 6k"]} oldPrice={"$169.999"} actualPrice={"$119.999"}/>
         {/* VIDEOCLIP BANDA */}
-        <Card title={"VIDEOCLIP BANDA"} features={["Rodaje de 2 horas","1 Locación", "Edición", "Color", "Filmación con cámara 6k"]} oldPrice={"$199.999"} actualPrice={"$149.999"}/>
+        <Card title={"VIDEOCLIP BANDA"} features={["Rodaje de 2 horas", "Edición", "Color", "Filmación con cámara 6k", "Ya disponible (vertical) incluido"]} oldPrice={"$199.999"} actualPrice={"$149.999"}/>
         {/* VIDEOCLIP GUIONADO */}
-        <Card title={"VIDEOCLIP GUIONADO"} features={["Rodaje de 2 horas","1 Locación", "Edición", "Color", "Filmación con cámara 6k"]} oldPrice={"$249.999"} actualPrice={"$199.999"}/>
+        <Card title={"VIDEOCLIP GUIONADO"} features={["Rodaje de 4 horas","Guión", "Edición", "Color", "Filmación con cámara 6k"]} oldPrice={"$249.999"} actualPrice={"$199.999"}/>
         
       </div>
     </MainLayout>

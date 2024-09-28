@@ -31,65 +31,44 @@ function Works() {
         </div>
       </div>
       <div className="grid lg:grid-cols-4 grid-cols-1">
-        <a href="#">
-          <img src="/images/video (1).jpg" alt="img" />
+        <a href="https://www.youtube.com/watch?v=xm9JnzLyNkE">
+          <img src="/images/horas-y-horas.jpg" alt="img" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=HuspyfNwJvE">
+          <img src="/images/talento-y-fe.jpg" alt="img" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=a5Lj3Lnm7LI">
+          <img src="/images/palestina.jpg" alt="img" />
         </a>
         <a href="#">
-          <img src="/images/video (2).jpg" alt="img" />
+          <img src="/images/video (12).jpg" alt="img" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=VvUOLPBSY94">
+          <img src="/images/opium.jpg" alt="img" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=_DoXKmH_n5w">
+          <img src="/images/angelina.jpg" alt="img" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=PPbQst-km9c">
+          <img src="/images/ansiedad.jpg" alt="img" />
         </a>
         <a href="#">
-          <img src="/images/video (3).jpg" alt="img" />
+          <img src="/images/video (22).jpg" alt="img" />
         </a>
-        <a href="#">
-          <img src="/images/video (4).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (5).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (6).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (7).jpg" alt="img" />
+        <a href="https://www.youtube.com/watch?v=gp3L6Ys6nhk">
+          <img src="/images/creltan.jpg" alt="img" />
         </a>
         <a href="#">
           <img src="/images/video (8).jpg" alt="img" />
         </a>
-        <a href="#">
-          <img src="/images/video (9).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (10).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (11).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (14).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (15).jpg" alt="img" />
+        <a href="https://www.youtube.com/watch?v=0nHBt6PztQQ">
+          <img src="/images/one-plane.jpg" alt="img" />
         </a>
         <a href="#">
           <img src="/images/video (16).jpg" alt="img" />
         </a>
-        <a href="#">
-          <img src="/images/video (17).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (18).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (19).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (20).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (21).jpg" alt="img" />
-        </a>
-        <a href="#">
-          <img src="/images/video (22).jpg" alt="img" />
+        <a href="https://www.youtube.com/watch?v=vHnaEPIaoE8">
+          <img src="/images/rukair.jpg" alt="img" />
         </a>
       </div>
     </MainLayout>
