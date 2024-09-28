@@ -9,9 +9,9 @@ function Menu({ isMenuActive }) {
       } bg-gray-800 w-[200px] h-screen flex justify-center transition-all`}
     >
         <div className="mt-4 flex flex-col items-start gap-4">
-          <a href="/work">WORK</a>
-          <a href="/prices">PRICES</a>
-          <a href="/contact">CONTACT</a>
+          <a href="/works">WORK</a>
+          <a href="/precios">PRECIOS</a>
+          <a href="/contacto">CONTACTO</a>
         </div>
     </div>
   );

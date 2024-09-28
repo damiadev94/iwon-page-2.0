@@ -39,8 +39,9 @@ function Navbar() {
             isMobile ? "hidden" : "visible"
           }`}
         >
-          <a href="/work">WORK</a>
-          <a href="/contact">CONTACT</a>
+          <a href="/works">WORK</a>
+          <a href="/precios">PRECIOS</a>
+          <a href="/contacto">CONTACTO</a>
         </div>
       </div>
     </div>
