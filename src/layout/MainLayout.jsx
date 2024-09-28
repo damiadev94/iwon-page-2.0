@@ -3,10 +3,13 @@ import Navbar from "../components/Navbar";
 
 function MainLayout({ children }) {
   return (
-    <div className="relative">
-      <div className="bg-[url('../../public/images/granulado_3.1.1.jpg')] w-full h-screen">
-        <Navbar />
-        {children}
+    <div className="relative w-full min-h-screen bg-[url('/images/grainy.jpg')]">
+      <Navbar />
+      {children}
+      <div className="flex w-full h-48 justify-center items-center">
+        <span className="text-white flex items-center justify-center text-2xl font-bold">
+          IWON
+        </span>
       </div>
     </div>
   );

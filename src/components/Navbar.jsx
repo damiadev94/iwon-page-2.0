@@ -20,9 +20,9 @@ function Navbar() {
       <Menu isMenuActive={isMenuActive} setIsMenuActive={setIsMenuActive} />
       <div className="w-full p-4 flex justify-between">
         {/* LOGO */}
-        <span className="text-white flex items-center justify-center text-2xl font-bold">
+        <a href="/" className="text-white flex items-center justify-center text-2xl font-bold">
           IWON
-        </span>
+        </a>
         {/* BUTTON */}
         <div className={`${isMobile ? "visible" : "hidden"}`}>
           <button onClick={setMenuActive}>
