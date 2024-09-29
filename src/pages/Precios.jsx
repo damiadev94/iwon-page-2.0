@@ -23,6 +23,8 @@ function Precios() {
             ]}
             oldPrice={"$119.999"}
             actualPrice={"$89.999"}
+            bg={"bg-gray-50"}
+            textColor={"text-gray-900"}
           />
           {/* VIDEOCLIP COMPLETO */}
           <Card
@@ -38,6 +40,8 @@ function Precios() {
             ]}
             oldPrice={"$169.999"}
             actualPrice={"$119.999"}
+            bg={"bg-gray-300"}
+            textColor={"text-gray-900"}
           />
           {/* VIDEOCLIP BANDA */}
           <Card
@@ -51,6 +55,8 @@ function Precios() {
             ]}
             oldPrice={"$199.999"}
             actualPrice={"$149.999"}
+            bg={"bg-gray-700"}
+            textColor={"text-white"}
           />
           {/* VIDEOCLIP GUIONADO */}
           <Card
@@ -64,6 +70,8 @@ function Precios() {
             ]}
             oldPrice={"$249.999"}
             actualPrice={"$199.999"}
+            bg={"bg-gray-900"}
+            textColor={"text-white"}
           />
         </div>
         <div className="bg-gray-50 rounded-md py-2 px-4 flex gap-2 w-fit mx-auto">

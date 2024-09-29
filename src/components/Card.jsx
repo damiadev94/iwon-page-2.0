@@ -1,8 +1,8 @@
 import React from "react";
 
-function Card({ title, features, oldPrice, actualPrice }) {
+function Card({ title, features, oldPrice, actualPrice, bg, textColor}) {
   return (
-    <div className="bg-gray-200 py-4 px-2 flex flex-col justify-between">
+    <div className={`${bg} ${textColor} py-4 px-2 flex flex-col justify-between`}>
       <h3 className="font-bold text-4xl text-center">{title}</h3>
       <p>
         {features.map((element) => {
