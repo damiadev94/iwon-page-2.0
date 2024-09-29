@@ -80,7 +80,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="#" target="_blank" className="group">
+          <a href="https://www.youtube.com/@IWon-c1m" target="_blank" className="group">
             <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">NO PROMO</span>
               <span className="text-white font-medium text-sm"></span>
@@ -120,7 +120,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="#" target="_blank" className="group">
+          <a href="https://www.youtube.com/@IWon-c1m" target="_blank" className="group">
             <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">CHIPIADO</span>
               <span className="text-white font-medium text-sm"></span>
@@ -140,7 +140,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="#" target="_blank" className="group">
+          <a href="https://www.youtube.com/watch?v=r4Vbq-SPBNw" target="_blank" className="group">
             <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">PERREO</span>
               <span className="text-white font-medium text-sm"></span>
@@ -160,7 +160,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="#" target="_blank" className="group">
+          <a href="https://www.youtube.com/@IWon-c1m" target="_blank" className="group">
             <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">CHIPIADO</span>
               <span className="text-white font-medium text-sm"></span>

@@ -33,7 +33,6 @@ function Precios() {
               "Rodaje de 2 horas",
               "Luces led rgb profesionales incluidas",
               "Ya diponible (vertical) incluido",
-              "Trailer incluido",
               "Edición",
               "Color",
               "Filmación con cámara 6k",
@@ -51,7 +50,6 @@ function Precios() {
               "Edición",
               "Color",
               "Filmación con cámara 6k",
-              "Ya disponible (vertical) incluido",
             ]}
             oldPrice={"$199.999"}
             actualPrice={"$149.999"}
