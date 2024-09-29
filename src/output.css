@@ -582,8 +582,8 @@ video {
   right: 0.5rem;
 }
 
-.top-0 {
-  top: 0px;
+.top-10 {
+  top: 2.5rem;
 }
 
 .top-2 {
@@ -600,6 +600,10 @@ video {
 
 .z-30 {
   z-index: 30;
+}
+
+.z-50 {
+  z-index: 50;
 }
 
 .mx-auto {
@@ -662,6 +666,10 @@ video {
 
 .min-h-screen {
   min-height: 100vh;
+}
+
+.min-h-\[728px\] {
+  min-height: 728px;
 }
 
 .w-\[200px\] {
@@ -851,12 +859,12 @@ video {
   font-weight: 700;
 }
 
-.font-medium {
-  font-weight: 500;
-}
-
 .font-light {
   font-weight: 300;
+}
+
+.font-medium {
+  font-weight: 500;
 }
 
 .uppercase {

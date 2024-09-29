@@ -4,7 +4,7 @@ function Menu({ isMenuActive }) {
  
   return (
     <div
-      className={`absolute top-0 ${
+      className={`absolute z-50 top-10 ${
         isMenuActive ? "right-0" : "-right-[200px]"
       } bg-gray-800 w-[200px] h-screen flex justify-center transition-all`}
     >

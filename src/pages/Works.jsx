@@ -5,7 +5,7 @@ function Works() {
   return (
     <MainLayout>
       {/* HERO */}
-      <div className="relative lg:min-h-[728px] max-h-screen lg:min-w-full overflow-hidden">
+      <div className="relative min-h-[728px] max-h-screen min-w-full overflow-hidden">
         <div className="w-full h-full">
           {/* POLARIZADO */}
           <div className="absolute w-full h-full z-20 bg-gray-950 opacity-50"></div>
@@ -85,7 +85,7 @@ function Works() {
               <span className="text-white font-bold text-lg">NO PROMO</span>
               <span className="text-white font-medium text-sm"></span>
             </div>
-            <img src="/images/video (12).jpg" alt="img" />
+            <img src="/images/no-promo.jpg" alt="img" />
           </a>
         </div>
 
@@ -125,7 +125,7 @@ function Works() {
               <span className="text-white font-bold text-lg">CHIPIADO</span>
               <span className="text-white font-medium text-sm"></span>
             </div>
-            <img src="/images/video (22).jpg" alt="img" />
+            <img src="/images/chipiado.jpg" alt="img" />
           </a>
         </div>
 
@@ -145,7 +145,7 @@ function Works() {
               <span className="text-white font-bold text-lg">PERREO</span>
               <span className="text-white font-medium text-sm"></span>
             </div>
-            <img src="/images/video (8).jpg" alt="img" />
+            <img src="/images/perreo.jpg" alt="img" />
           </a>
         </div>
 
@@ -165,7 +165,7 @@ function Works() {
               <span className="text-white font-bold text-lg">CHIPIADO</span>
               <span className="text-white font-medium text-sm"></span>
             </div>
-            <img src="/images/video (16).jpg" alt="img" />
+            <img src="/images/2.jpg" alt="img" />
           </a>
         </div>
 
