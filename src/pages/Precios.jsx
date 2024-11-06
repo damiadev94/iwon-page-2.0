@@ -21,8 +21,8 @@ function Precios() {
               "Color",
               "Filmación con cámara 6k",
             ]}
-            oldPrice={"$119.999"}
-            actualPrice={"$89.999"}
+            oldPrice={"$129.999"}
+            actualPrice={"$99.999"}
             bg={"bg-gray-50"}
             textColor={"text-gray-900"}
           />
@@ -32,13 +32,12 @@ function Precios() {
             features={[
               "Rodaje de 2 horas",
               "Luces led rgb profesionales incluidas",
-              "Ya diponible (vertical) incluido",
               "Edición",
               "Color",
               "Filmación con cámara 6k",
             ]}
-            oldPrice={"$169.999"}
-            actualPrice={"$119.999"}
+            oldPrice={"$179.999"}
+            actualPrice={"$129.999"}
             bg={"bg-gray-300"}
             textColor={"text-gray-900"}
           />
@@ -51,8 +50,8 @@ function Precios() {
               "Color",
               "Filmación con cámara 6k",
             ]}
-            oldPrice={"$199.999"}
-            actualPrice={"$149.999"}
+            oldPrice={"$209.999"}
+            actualPrice={"$159.999"}
             bg={"bg-gray-700"}
             textColor={"text-white"}
           />
