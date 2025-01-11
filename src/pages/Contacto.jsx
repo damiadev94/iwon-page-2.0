@@ -11,12 +11,12 @@ function Contacto() {
       </h1>
       <div className="flex max-w-48 justify-center mx-auto">
       <div className="w-full flex flex-col gap-4 items-start justify-center">
-        <div className="flex gap-2 text-white items-center justify-center">
+        {/* <div className="flex gap-2 text-white items-center justify-center">
           <FaWhatsapp />
-          <a href="https://wa.link/4iun7m" target="_blank">
-            11-5473-4725
+          <a href="https://wa.link/j14erl" target="_blank">
+            11 2238-7070
           </a>
-        </div>
+        </div> */}
         <div className="flex gap-2 text-white items-center justify-center">
           <FaInstagram />
           <a href="https://www.instagram.com/iwon.audiovisual/" target="_blank">
