@@ -10,34 +10,20 @@ function Precios() {
         <h1 className="text-white font-bold text-4xl text-center my-4 uppercase">
           nuestros precios
         </h1>
-        <div className="w-full grid lg:grid-cols-4 grid-cols-1 gap-1 lg:min-h-[728px]">
-          {/* VIDEOCLIP ESTANDAR */}
-          <Card
-            title={"VIDEOCLIP ESTANDAR"}
-            features={[
-              "Rodaje de 2 horas",
-              "1 Locación",
-              "Edición",
-              "Color",
-              "Filmación con cámara 6k",
-            ]}
-            oldPrice={"$129.999"}
-            actualPrice={"$99.999"}
-            bg={"bg-gray-50"}
-            textColor={"text-gray-900"}
-          />
+        <div className="w-full grid lg:grid-cols-3 grid-cols-1 gap-1 lg:min-h-[728px]">
           {/* VIDEOCLIP COMPLETO */}
           <Card
             title={"VIDEOCLIP COMPLETO"}
             features={[
               "Rodaje de 2 horas",
-              "Luces led rgb profesionales incluidas",
+              "1/2 Locaciones",
               "Edición",
               "Color",
               "Filmación con cámara 6k",
+              "1 Asistente de direccion",
             ]}
-            oldPrice={"$179.999"}
-            actualPrice={"$129.999"}
+            oldPrice={"$169.999"}
+            actualPrice={"$119.999"}
             bg={"bg-gray-300"}
             textColor={"text-gray-900"}
           />
@@ -50,8 +36,8 @@ function Precios() {
               "Color",
               "Filmación con cámara 6k",
             ]}
-            oldPrice={"$209.999"}
-            actualPrice={"$159.999"}
+            oldPrice={"$249.999"}
+            actualPrice={"$199.999"}
             bg={"bg-gray-700"}
             textColor={"text-white"}
           />
@@ -59,7 +45,7 @@ function Precios() {
           <Card
             title={"VIDEOCLIP GUIONADO"}
             features={[
-              "Rodaje de 4 horas",
+              "Rodaje de 3 horas",
               "Guión",
               "Edición",
               "Color",
@@ -71,9 +57,22 @@ function Precios() {
             textColor={"text-white"}
           />
         </div>
+        <div className="w-full flex justify-center items-center text-white">
+          <div className="text-center flex flex-col gap-4">
+            <h1 className="text-2xl font-bold">EXTRAS</h1>
+            <span>Lente angular <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $19.999</span></span>
+            <span>Tripode <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $19.999</span></span>
+            <span>Luz de ESTUDIO <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $39.999</span></span>
+            <span>2 tubos leds RGB <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $29.999</span></span>   
+          </div>
+        </div>
         <div className="bg-gray-50 rounded-md py-2 px-4 flex gap-2 w-fit mx-auto">
           <FaWhatsapp />
-          <a href="https://wa.link/4iun7m" target="_blank" className="text-lg font-bold">
+          <a
+            href="https://wa.link/4iun7m"
+            target="_blank"
+            className="text-lg font-bold"
+          >
             HABLANOS AL WP
           </a>
         </div>

@@ -10,7 +10,7 @@ function MainLayout({ children }) {
         <span className="text-white flex items-center justify-center text-2xl font-bold">
           IWON 
         </span>
-        <span className=" text-white text-xs font-light block">Más de 200 videoclips producidos.</span>
+        <span className=" text-white text-xs font-light block">Más de 350 Videoclips Producidos. 🚀</span>
       </div>
     </div>
   );

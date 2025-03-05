@@ -33,7 +33,7 @@ function Works() {
       <div className="grid lg:grid-cols-3 grid-cols-1">
         <div className="relative">
           <a
-            href="https://www.youtube.com/watch?v=xm9JnzLyNkE"
+            href="https://www.youtube.com/watch?v=BXpgqg1kjWM"
             target="_blank"
             className="group"
           >
@@ -70,7 +70,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="https://www.youtube.com/watch?v=a5Lj3Lnm7LI" target="_blank" className="group">
+          <a href="https://www.youtube.com/watch?v=SyaY5-A0ok0" target="_blank" className="group">
           <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">PALESTINA</span>
               <span className="text-white font-medium text-sm"></span>
@@ -90,7 +90,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="https://www.youtube.com/watch?v=VvUOLPBSY94" target="_blank" className="group">
+          <a href="https://www.youtube.com/watch?v=NR5c7b-Kz8c" target="_blank" className="group">
           <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">OPIUM</span>
               <span className="text-white font-medium text-sm"></span>
@@ -120,7 +120,7 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="https://www.youtube.com/@IWon-c1m" target="_blank" className="group">
+          <a href="https://www.youtube.com/watch?v=4zWkHqcY_Nc" target="_blank" className="group">
             <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">CHIPIADO</span>
               <span className="text-white font-medium text-sm"></span>
@@ -170,12 +170,32 @@ function Works() {
         </div>
 
         <div className="relative">
-          <a href="https://www.youtube.com/watch?v=vHnaEPIaoE8" target="_blank" className="group">
+          <a href="https://www.youtube.com/watch?v=y8RZibdrWj4" target="_blank" className="group">
           <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
               <span className="text-white font-bold text-lg">RUKAIR</span>
               <span className="text-white font-medium text-sm"></span>
             </div>
             <img src="/images/rukair.jpg" alt="img" />
+          </a>
+        </div>
+
+        <div className="relative">
+          <a href="https://www.youtube.com/watch?v=y8RZibdrWj4" target="_blank" className="group">
+          <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+              <span className="text-white font-bold text-lg">ROLO PAPERS</span>
+              <span className="text-white font-medium text-sm">ONE PLANE</span>
+            </div>
+            <img src="/images/roleta_4.3.2.jpg" alt="img" />
+          </a>
+        </div>
+
+        <div className="relative">
+          <a href="https://www.youtube.com/watch?v=VwYbdaQZaEI" target="_blank" className="group">
+          <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+              <span className="text-white font-bold text-lg">C EST LA VIE</span>
+              <span className="text-white font-medium text-sm">Rukair</span>
+            </div>
+            <img src="/images/joven ikari_4.3.1.jpg" alt="img" />
           </a>
         </div>
       </div>
