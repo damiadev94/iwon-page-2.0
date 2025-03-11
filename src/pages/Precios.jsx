@@ -16,7 +16,7 @@ function Precios() {
             title={"VIDEOCLIP COMPLETO"}
             features={[
               "Rodaje de 2 horas",
-              "1/2 Locaciones",
+              "1 Locación",
               "Edición",
               "Color",
               "Filmación con cámara 6k",
@@ -61,9 +61,9 @@ function Precios() {
           <div className="text-center flex flex-col gap-4">
             <h1 className="text-2xl font-bold">EXTRAS</h1>
             <span>Lente angular <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $19.999</span></span>
-            <span>Tripode <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $19.999</span></span>
+            <span>Tripode <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $29.999</span></span>
             <span>Luz de ESTUDIO <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $39.999</span></span>
-            <span>2 tubos leds RGB <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $29.999</span></span>   
+            <span>2 tubos leds RGB <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $34.999</span></span>   
           </div>
         </div>
         <div className="bg-gray-50 rounded-md py-2 px-4 flex gap-2 w-fit mx-auto">
