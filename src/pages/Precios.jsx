@@ -69,7 +69,7 @@ function Precios() {
         <div className="bg-gray-50 rounded-md py-2 px-4 flex gap-2 w-fit mx-auto">
           <FaWhatsapp />
           <a
-            href="https://wa.link/4iun7m"
+            href="https://wa.link/5dcj3j"
             target="_blank"
             className="text-lg font-bold"
           >
