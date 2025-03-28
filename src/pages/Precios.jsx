@@ -22,8 +22,8 @@ function Precios() {
               "Filmación con cámara 6k",
               "1 Asistente de direccion",
             ]}
-            oldPrice={"$169.999"}
-            actualPrice={"$119.999"}
+            oldPrice={"$199.999"}
+            actualPrice={"$149.999"}
             bg={"bg-gray-300"}
             textColor={"text-gray-900"}
           />
