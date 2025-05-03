@@ -26,7 +26,7 @@ function Contacto() {
         <div className="flex gap-2 text-white items-center justify-center">
           <FaWhatsapp/>
           <a href="https://wa.link/81hnps" target="_blank">
-            11 2238-7070
+            11 5473-4725
           </a>
         </div>
       </div>
