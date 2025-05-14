@@ -35,6 +35,7 @@ function Precios() {
               "Edición",
               "Color",
               "Filmación con cámara 6k",
+              "1 Locación"
             ]}
             oldPrice={"$249.999"}
             actualPrice={"$199.999"}
@@ -69,7 +70,7 @@ function Precios() {
         <div className="bg-gray-50 rounded-md py-2 px-4 flex gap-2 w-fit mx-auto">
           <FaWhatsapp />
           <a
-            href="https://wa.link/5dcj3j"
+            href="https://wa.link/81hnps"
             target="_blank"
             className="text-lg font-bold"
           >
