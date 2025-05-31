@@ -52,8 +52,8 @@ function Precios() {
               "Color",
               "Filmación con cámara 6k",
             ]}
-            oldPrice={"$249.999"}
-            actualPrice={"$199.999"}
+            oldPrice={"$299.999"}
+            actualPrice={"$249.999"}
             bg={"bg-gray-900"}
             textColor={"text-white"}
           />
@@ -61,7 +61,7 @@ function Precios() {
         <div className="w-full flex justify-center items-center text-white">
           <div className="text-center flex flex-col gap-4">
             <h1 className="text-2xl font-bold">EXTRAS</h1>
-            <span>Lente angular <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $24.999</span></span>
+            <span>Lente angular <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $28.999</span></span>
             <span>Tripode <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $29.999</span></span>
             <span>Luz de ESTUDIO <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $39.999</span></span>
             <span>2 tubos leds RGB <i class="fa-solid fa-arrow-right"></i> <span className="font-bold"> $34.999</span></span>   
