@@ -37,8 +37,8 @@ function Precios() {
               "Filmación con cámara 6k",
               "1 Locación"
             ]}
-            oldPrice={"$249.999"}
-            actualPrice={"$199.999"}
+            oldPrice={"$299.999"}
+            actualPrice={"$249.999"}
             bg={"bg-gray-700"}
             textColor={"text-white"}
           />
