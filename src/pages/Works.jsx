@@ -37,26 +37,6 @@ function Works() {
 
         <div className="relative">
           <a
-            href="https://www.youtube.com/watch?v=tYMx3zbuiFw"
-            target="_blank"
-            className="group"
-          >
-            <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
-              <span className="text-white font-bold text-lg">
-                CRELTAN
-              </span>
-              <span className="text-white font-medium text-sm">X El Pelpa La Sustancia</span>
-            </div>
-            <img
-              src="/images/creltan.jpg"
-              alt="img"
-              className="group-hover:opacity-40 transition-opacity"
-            />
-          </a>
-        </div>
-
-        <div className="relative">
-          <a
             href="https://www.youtube.com/watch?v=C5jqoxea6gk"
             target="_blank"
             className="group"
@@ -217,24 +197,6 @@ function Works() {
 
         <div className="relative">
           <a
-            href="https://www.youtube.com/watch?v=HuspyfNwJvE"
-            target="_blank"
-            className="group"
-          >
-            <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
-              <span className="text-white font-bold text-lg">TALENTO Y FE</span>
-              <span className="text-white font-medium text-sm"></span>
-            </div>
-            <img
-              src="/images/talento-y-fe.jpg"
-              alt="img"
-              className="group-hover:opacity-40 transition-opacity"
-            />
-          </a>
-        </div>
-
-        <div className="relative">
-          <a
             href="https://www.youtube.com/watch?v=SyaY5-A0ok0"
             target="_blank"
             className="group"
@@ -316,20 +278,6 @@ function Works() {
               <span className="text-white font-medium text-sm"></span>
             </div>
             <img src="/images/chipiado.jpg" alt="img" className="group-hover:opacity-40 transition-opacity"/>
-          </a>
-        </div>
-
-        <div className="relative">
-          <a
-            href="https://www.youtube.com/watch?v=gp3L6Ys6nhk"
-            target="_blank"
-            className="group"
-          >
-            <div className="absolute z-30 w-full h-full flex flex-col justify-center items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
-              <span className="text-white font-bold text-lg">CRELTAN</span>
-              <span className="text-white font-medium text-sm"></span>
-            </div>
-            <img src="/images/creltan.jpg" alt="img" className="group-hover:opacity-40 transition-opacity"/>
           </a>
         </div>
 
